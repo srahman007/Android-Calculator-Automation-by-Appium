@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-01T08:19:00" hostname="SHIKARIOP" time="14.743">
+  <properties/>
+  <testcase name="doSeries" classname="testRunner" time="14.743"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
