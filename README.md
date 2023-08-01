@@ -18,8 +18,9 @@ This is mainly a test project of Android Calculator.apk file. Here I just downlo
 - Download the build file from github and run
 
 ## Reports
-![1](https://github.com/srahman007/Appium-Android-Calculator-Automation/assets/118020569/f385eb04-ea79-4ca3-be12-07a36f9d5a4c)
-![2](https://github.com/srahman007/Appium-Android-Calculator-Automation/assets/118020569/df9ba172-e363-49d1-9482-3b76a2b6139c)
-![3](https://github.com/srahman007/Appium-Android-Calculator-Automation/assets/118020569/33f70cde-6c39-40fc-9044-070079746034)
-![4](https://github.com/srahman007/Appium-Android-Calculator-Automation/assets/118020569/0b2ad157-fce1-4279-9959-7a3f67a1331e)
-![5](https://github.com/srahman007/Appium-Android-Calculator-Automation/assets/118020569/a32e85b2-b680-4427-9d48-ca77e8be2d96)
+
+![1](https://github.com/srahman007/Android-Calculator-Automation-by-Appium/assets/118020569/9a9c24ef-eb82-45ca-8b5c-a93f443f129d)
+![2](https://github.com/srahman007/Android-Calculator-Automation-by-Appium/assets/118020569/b085e034-9c32-4ea5-90a8-9899ff82a184)
+![3](https://github.com/srahman007/Android-Calculator-Automation-by-Appium/assets/118020569/a36715f7-e2ed-481d-88da-cce3ec0d888b)
+![4](https://github.com/srahman007/Android-Calculator-Automation-by-Appium/assets/118020569/46af1f41-0373-4423-b061-f83f7fe4ccbc)
+![5](https://github.com/srahman007/Android-Calculator-Automation-by-Appium/assets/118020569/6229ff84-d56c-47a5-af5a-f08e6250d07f)
